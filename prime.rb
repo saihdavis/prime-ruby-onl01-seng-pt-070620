@@ -1,3 +1,2 @@
 def prime?(integer)
-  
-  if 
+  if integer 
