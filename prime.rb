@@ -9,4 +9,3 @@ def prime?(number)
     false
   end
 end
-© 2020 GitHub, Inc.
