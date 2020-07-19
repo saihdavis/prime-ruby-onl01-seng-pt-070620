@@ -3,3 +3,5 @@ def prime?(integer)
     return true 
   else
     false 
+end
+end
